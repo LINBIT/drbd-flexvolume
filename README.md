@@ -1,5 +1,7 @@
 # DRBD flexvolume plugin for Kubernetes
 
+# This project is deprecated, please refer to [linstor-flexvolume](https://github.com/LINBIT/linstor-flexvolume)
+
 ## Building
 
 Requires Go 1.8 or higher and a configured GOPATH
